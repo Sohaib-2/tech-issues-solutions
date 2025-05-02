@@ -2,7 +2,7 @@
 
 ## 🔍 Purpose
 
-This repository was created to document and share solutions to various technical issues I've encountered while myself. After spending countless hours searching forums, documentation, and Stack Overflow to fix common problems, I realized that having all these solutions in one organized place would save time for both myself and others.
+This repository was created to document and share solutions to various technical issues I've encountered  myself. After spending countless hours searching forums, documentation, and Stack Overflow to fix common problems, I realized that having all these solutions in one organized place would save time for both myself and others.
 
 The goal is to provide clear, step-by-step guides with practical solutions that anyone can follow, even without advanced technical knowledge.
 
